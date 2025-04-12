@@ -1,30 +1,57 @@
-# Full Stack Developer
+<!-- GitHub Profile README using jekyll-theme-minimal -->
 
+<!-- Banner -->
+<h1 align="center" style="color:#2c3e50;font-family:Segoe UI, sans-serif;">
+  👋 Welcome to My GitHub!
+</h1>
 
-### Education
+<p align="center" style="max-width: 600px; color:#555;">
+  I'm a passionate software engineer with 20+ years of hands-on experience in version control, software architecture, and full-stack development. I specialize in Git, automation, DevOps, and open-source contribution.
+</p>
 
-St. Martins Engineering college
-•	Percentage: 71.8% (2020)
+<hr style="border: 0; height: 1px; background: #eee;" />
 
-### Work Experience
-	Worked on customer communication management project for a US client: (06/2020 – Now)
-	Responsible for understanding and converting the existing asp.net web application to Angular and creating Web APIs with high quality and coding standards within stipulated time frame.
-	Followed proper component architecture in Angular
-with coding standards.
-	Optimized code and made required Database changes.
-	Direct communication with client regarding planning, development and progress of the sprint.
-	Tracking, working, fixing and updating issues and cases
-assigned by client in JIRA.
-	Have worked on revamping old UI to new responsive and user-friendly UI using HTML and bootstrap.
-	Have worked on other minor projects for converting code using both front end and backend technologies like Aurelia framework, asp.net, .Net core , LINQ, Entity framework and Microsoft SQL server.
+<!-- About Me Section -->
+<h2 style="color:#2c3e50;">👨‍💻 About Me</h2>
 
-	Worked on an employee management and problem tracking application for a US client: (01/2020 – 06/2020)
-	Worked on initial designing phase for the Application using Angular and JavaScript. Created web API using .net. Created various components from scratch and implementing different functionalities using HTML, CSS and Angular.
-	Regularly participated in meetings with the US client and tried to understand and implement the requirements and changes.
-	Worked on resolving various issues reported on Mantis and changing status.
-	Worked closely with QA team in resolving issues and assuring higher quality application is released on time.
+<ul style="list-style: square; color:#333; font-size: 16px;">
+  <li>🔧 20+ years mastering <strong>Git</strong> and version control workflows</li>
+  <li>🌐 Building scalable web platforms and automation tools</li>
+  <li>💡 Advocate for clean code, documentation, and developer mentorship</li>
+  <li>🚀 Passionate about open source and continuous learning</li>
+</ul>
 
+<!-- Skills Section -->
+<h2 style="color:#2c3e50;">🛠️ Tech Toolbox</h2>
 
-### Projects
-Client Communication management systems
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 
+<!-- GitHub Stats -->
+<h2 style="color:#2c3e50;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<!-- Contact -->
+<h2 style="color:#2c3e50;">📫 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">🔗 LinkedIn</a> |
+  <a href="mailto:your.email@example.com">📧 Email</a> |
+  <a href="https://your-portfolio.com" target="_blank">🌐 Portfolio</a>
+</p>
+
+---
+
+<p align="center" style="font-size: 14px; color: #888;">
+  Made with ❤️ and Git | Jekyll Theme: Minimal
+</p>
