@@ -3,3 +3,7 @@ logo: /assets/images/passportphoto.jpg
 description: full stack .net angular developer
 show_downloads: true
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
+include:
+  - assets/css/style.css
